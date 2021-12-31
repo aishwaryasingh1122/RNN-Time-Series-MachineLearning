@@ -1,7 +1,4 @@
-# Aishwarya Singh AXS200109 
-# Pooja R Bhaiya PXR210008 
-# Sakshi Laddha SAL200000 
-# Soumya Mohapatra SXM200273
+# Aishwarya Singh
 
 import numpy as nup
 import pandas as panda
